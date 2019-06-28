@@ -24,6 +24,15 @@ Again the goal of this project was to make a Java program, so I tried to make so
 
 **You are responsible of your actions towards this program.**
 
+## Usage
+
+```
+Usages : Exe2Jar.jar <option> <file>
+         -h                     : Show usages
+         -i <file>              : Show informations about the executable
+         -u <outputFile> <file> : Unpack the jar file from the executable
+```
+
 ## Support
 
 **Options :**
@@ -46,15 +55,6 @@ Again the goal of this project was to make a Java program, so I tried to make so
 - Console 64 bit
 - Services 32 bit
 - Services 64 bit
-
-## Usage
-
-```
-Usages : Exe2Jar.jar <option> <file>
-         -h                     : Show usages
-         -i <file>              : Show informations about the executable
-         -u <outputFile> <file> : Unpack the jar file from the executable
-```
 
 ## TODO
 
