@@ -2,9 +2,13 @@
 
 This tool is a unpacker for Jar2Exe Windows executables
 
+Jar2exe is a wrapper cross platform for JAR files that allows the execution of JAR files through a windows, linux or mac executable while the JRE is installed.
+
+My unpacker recover the main JAR file from these executable
+
 http://www.jar2exe.com/features
 
-This was a little school project with the goal to make a Java program that use Object programming.
+NOTE : This was a little school project with the goal to make a Java program that use Object programming.
 
 ![](demo.gif)
 
@@ -20,6 +24,29 @@ Again the goal of this project was to make a Java program, so I tried to make so
 
 **You are responsible of your actions towards this program.**
 
+## Support
+
+**Options :**
+
+- No options
+- Hide
+
+**Info :**
+
+- Gui 32 bit
+- Gui 64 bit
+- Console 32 bit
+- Console 64 bit
+
+**Unpack :**
+
+- Gui 32 bit
+- Gui 64 bit
+- Console 32 bit
+- Console 64 bit
+- Services 32 bit
+- Services 64 bit
+
 ## Usage
 
 ```
@@ -28,6 +55,10 @@ Usages : Exe2Jar.jar <option> <file>
          -i <file>              : Show informations about the executable
          -u <outputFile> <file> : Unpack the jar file from the executable
 ```
+
+## TODO
+
+- Encrypt (Coming Soon)
 
 ## License
 [Creative Commons Attribution-NonCommercial-NoDerivatives](http://creativecommons.org/licenses/by-nc-nd/4.0/)
