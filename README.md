@@ -2,7 +2,7 @@
 
 This tool is a unpacker for Jar2Exe Windows executables
 
-Jar2exe is a wrapper cross platform for JAR files that allows the execution of JAR files through a windows, linux or mac executable while the JRE is installed.
+Jar2exe is a cross platform wrapper for JAR files that allows the execution of JAR files through a windows, linux or mac executable while the JRE is installed.
 
 My unpacker recover the main JAR file from these executable
 
